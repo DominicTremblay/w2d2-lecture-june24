@@ -33,7 +33,7 @@ const map = (list, callback) => {
 
 ## Asynchronous JS
 
-What is Asynchronous JS?
+### What is Asynchronous JS?
 
 - We are used to synchronous JS which performs tasks sequentially.
 
